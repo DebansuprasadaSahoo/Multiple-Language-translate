@@ -6,7 +6,7 @@ from gtts import gTTS
 import base64
 
 # read language dataset
-df = pd.read_csv(r"C:\Users\deban\OneDrive\Documents\Multiple-language-translation-main\language.csv")
+df = pd.read_csv(r"language.csv")
 df.dropna(inplace=True)
 lang = df['name'].to_list()
 langlist=tuple(lang)
