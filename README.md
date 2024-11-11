@@ -34,3 +34,5 @@ Replace "[Specify the license you're using]" with the actual license.
 Consider adding more specific details about the languages supported, translation accuracy, or any unique features your app offers.
 You can also include a brief explanation of the underlying technology or algorithms used.
 If you're open to contributions, provide clear guidelines for developers.
+
+LIVE LINK - https://langtranslationpy-3hvsyehrthmrtxepvexnqs.streamlit.app/
