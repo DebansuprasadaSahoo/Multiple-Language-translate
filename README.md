@@ -1,6 +1,6 @@
 # Multiple-language-translation
 LIVE LINK - https://langtranslationpy-3hvsyehrthmrtxepvexnqs.streamlit.app/
-Language Translation App
+
 
 This application is a powerful language translation tool that allows users to seamlessly translate text from one language to another. Leveraging advanced language models, this app offers accurate and efficient translations for a wide range of languages.
 
