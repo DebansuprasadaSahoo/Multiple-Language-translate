@@ -24,15 +24,3 @@ Deployment: Deployed on Streamlit for easy accessibility.
 Contributions:
 
 We welcome contributions to enhance this project. Feel free to fork the repository and submit pull requests for bug fixes, feature improvements, or new language support.
-
-License:
-
-[Specify the license you're using, e.g., MIT, Apache 2.0]
-
-Note:
-
-Replace "[Specify the license you're using]" with the actual license.
-Consider adding more specific details about the languages supported, translation accuracy, or any unique features your app offers.
-You can also include a brief explanation of the underlying technology or algorithms used.
-If you're open to contributions, provide clear guidelines for developers.
-
